@@ -1,0 +1,91 @@
+C:\Users\Miky\Desktop\Multimedia\Lectures\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Miky\Desktop\Multimedia\Lectures\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Miky\Desktop\Multimedia\Lectures\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Miky\Desktop\Multimedia\Lectures\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Miky\Desktop\Multimedia\Lectures\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Miky\Desktop\Multimedia\Lectures\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Miky\Desktop\Multimedia\Lectures\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Miky\Desktop\Multimedia\Lectures\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Miky\Desktop\Multimedia\Lectures\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Miky\Desktop\Multimedia\Lectures\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Miky\Desktop\Multimedia\Lectures\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Miky\Desktop\Multimedia\Lectures\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Miky\Desktop\Multimedia\Lectures\02_multimedia\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Miky\Desktop\Multimedia\Lectures\02_multimedia\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Miky\Desktop\Multimedia\Lectures\02_multimedia\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Miky\Desktop\Multimedia\Lectures\02_multimedia\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Miky\Desktop\Multimedia\Lectures\02_multimedia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Miky\Desktop\Multimedia\Lectures\02_multimedia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Miky\Desktop\Multimedia\Lectures\02_multimedia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Miky\Desktop\Multimedia\Lectures\02_multimedia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Miky\Desktop\Multimedia\Lectures\02_multimedia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Miky\Desktop\Multimedia\Lectures\02_multimedia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Miky\Desktop\Multimedia\Lectures\02_multimedia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Miky\Desktop\Multimedia\Lectures\02_multimedia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Miky\Desktop\Multimedia\Lectures\03_multimedia\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Miky\Desktop\Multimedia\Lectures\03_multimedia\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Miky\Desktop\Multimedia\Lectures\03_multimedia\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Miky\Desktop\Multimedia\Lectures\03_multimedia\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Miky\Desktop\Multimedia\Lectures\03_multimedia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Miky\Desktop\Multimedia\Lectures\03_multimedia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Miky\Desktop\Multimedia\Lectures\03_multimedia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Miky\Desktop\Multimedia\Lectures\03_multimedia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Miky\Desktop\Multimedia\Lectures\03_multimedia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Miky\Desktop\Multimedia\Lectures\03_multimedia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Miky\Desktop\Multimedia\Lectures\03_multimedia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Miky\Desktop\Multimedia\Lectures\03_multimedia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Miky\Desktop\Multimedia\Lectures\03_multimedia\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Miky\Desktop\Multimedia\Lectures\03_multimedia\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Miky\Desktop\Multimedia\Lectures\03_multimedia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Miky\Desktop\Multimedia\Lectures\03_multimedia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Miky\Desktop\Multimedia\Lectures\03_multimedia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\Miky\Desktop\Multimedia\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Miky\Desktop\Multimedia\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Miky\Desktop\Multimedia\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Miky\Desktop\Multimedia\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Miky\Desktop\Multimedia\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Miky\Desktop\Multimedia\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Miky\Desktop\Multimedia\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Miky\Desktop\Multimedia\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Miky\Desktop\Multimedia\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Miky\Desktop\Multimedia\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\Miky\Desktop\Multimedia\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Miky\Desktop\Multimedia\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Miky\Desktop\Multimedia\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Miky\Desktop\Multimedia\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Miky\Desktop\Multimedia\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Miky\Desktop\Multimedia\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Miky\Desktop\Multimedia\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Adelina\Desktop\Multimedia\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Adelina\Desktop\Multimedia\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Adelina\Desktop\Multimedia\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Adelina\Desktop\Multimedia\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Adelina\Desktop\Multimedia\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Adelina\Desktop\Multimedia\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Adelina\Desktop\Multimedia\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Adelina\Desktop\Multimedia\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Adelina\Desktop\Multimedia\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Adelina\Desktop\Multimedia\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\Adelina\Desktop\Multimedia\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Adelina\Desktop\Multimedia\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Adelina\Desktop\Multimedia\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Adelina\Desktop\Multimedia\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Adelina\Desktop\Multimedia\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Adelina\Desktop\Multimedia\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Adelina\Desktop\Multimedia\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Mirela\Desktop\PROIECT FINAL BAZE DE DATE MULTIMEDIA\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Mirela\Desktop\PROIECT FINAL BAZE DE DATE MULTIMEDIA\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Mirela\Desktop\PROIECT FINAL BAZE DE DATE MULTIMEDIA\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Mirela\Desktop\PROIECT FINAL BAZE DE DATE MULTIMEDIA\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mirela\Desktop\PROIECT FINAL BAZE DE DATE MULTIMEDIA\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mirela\Desktop\PROIECT FINAL BAZE DE DATE MULTIMEDIA\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Mirela\Desktop\PROIECT FINAL BAZE DE DATE MULTIMEDIA\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mirela\Desktop\PROIECT FINAL BAZE DE DATE MULTIMEDIA\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Mirela\Desktop\PROIECT FINAL BAZE DE DATE MULTIMEDIA\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\Mirela\Desktop\PROIECT FINAL BAZE DE DATE MULTIMEDIA\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Mirela\Desktop\PROIECT FINAL BAZE DE DATE MULTIMEDIA\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Mirela\Desktop\PROIECT FINAL BAZE DE DATE MULTIMEDIA\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Mirela\Desktop\PROIECT FINAL BAZE DE DATE MULTIMEDIA\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Mirela\Desktop\PROIECT FINAL BAZE DE DATE MULTIMEDIA\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Mirela\Desktop\PROIECT FINAL BAZE DE DATE MULTIMEDIA\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Mirela\Desktop\PROIECT FINAL BAZE DE DATE MULTIMEDIA\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
